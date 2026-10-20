@@ -6,8 +6,7 @@ A prototype functional electrical stimulation (FES) system designed to support r
 
 > **Safety warning:** this is an early-stage prototype. It has **not** been validated, has **not** been tested on people, and is **not** a medical device. It involves high-voltage stimulation and must not be built, copied or connected to a person on the basis of this description.
 
-![FES-Stimulator prototype](images/prototype.jpg)
-<!-- Add pictures of the hardware or a block diagram, with short captions -->
+
 
 ---
 
